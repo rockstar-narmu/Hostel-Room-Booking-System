@@ -1,4 +1,5 @@
 # Hostel Room Booking System
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a **Hostel Room Booking System** built using JSP, Apache Derby, and HTML/CSS.
 
