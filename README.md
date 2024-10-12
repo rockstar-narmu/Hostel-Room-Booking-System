@@ -37,8 +37,8 @@ This project is licensed under the MIT License.
 ### Dashboard (Guest and Admin)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="350" height="250" />
-    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="350" height="250" />
+    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="370" height="270" />
+    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="370" height="270" />
 </div>
 
 ### Guest Features
