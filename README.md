@@ -37,8 +37,8 @@ This project is licensed under the MIT License.
 ### Dashboard (Guest and Admin)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="300" height="200" />
+    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="300" height="200" />
 </div>
 
 ### Guest Features
@@ -63,9 +63,9 @@ This project is licensed under the MIT License.
 ### Admin Features
 - View Booked Rooms / Available Rooms and Registered Users
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/05f8d697-5a42-47f9-bdb6-1cf67df2f6d2" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/d8272adf-de27-4ec3-9f7f-19902dbae622" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/ecac60d8-152b-47f6-9e0a-14fde4e8ee87" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/05f8d697-5a42-47f9-bdb6-1cf67df2f6d2" alt="Screenshot" width="260" height="180" />
+    <img src="https://github.com/user-attachments/assets/d8272adf-de27-4ec3-9f7f-19902dbae622" alt="Screenshot" width="260" height="180" />
+    <img src="https://github.com/user-attachments/assets/ecac60d8-152b-47f6-9e0a-14fde4e8ee87" alt="Screenshot" width="260" height="180" />
 </div>
 
 - Delete User
