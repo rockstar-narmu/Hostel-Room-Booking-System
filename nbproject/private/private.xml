@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewMyBookings.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/deleteUser.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/src/java/GenerateUserReportServlet.java</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/src/java/GenerateReportServlet.java</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/confirmBooking.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/index.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/logout.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/deleteRoom.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/src/java/GenerateRoomReportServlet.java</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/login.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewRoomsForDeletion.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/confirmDeleteUser.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/confirmCancellation.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/src/java/GenerateRoomsReportServlet.java</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewUsers.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/confirmRoomDeletion.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewBookings.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/updateRoomAction.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/addRoom.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewRooms.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewAvailableRooms.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/bookRoom.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/welcome.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/cancelBookingResult.jsp</file>
+            <file>file:/C:/Users/CENTRIO/Documents/NetBeansProjects/Guest/web/viewRoomsForUpdate.jsp</file>
+        </group>
+    </open-files>
+</project-private>
