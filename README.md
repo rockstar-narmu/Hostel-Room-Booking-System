@@ -1,13 +1,14 @@
 # Hostel Room Booking System
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project is a **Hostel Room Booking System** built using JSP, Apache Derby, and HTML/CSS.
+This project is a **Hostel Room Booking System** built using JSP, Servlets, Apache Derby, and HTML/CSS.
 
 ## Features
 - Admin panel for managing rooms (View, Add, Delete and Modify Rooms).
-- Admin can also manage User details (View, Add or Delete User).
+- Admin can also manage User details (View or Delete User).
 - User registration and login system.
 - Room availability and booking system (View, Book and Cancel Rooms).
+- Report Generation for Rooms and Users
 
 ## How to Run
 1. Clone the repository.
@@ -17,7 +18,7 @@ This project is a **Hostel Room Booking System** built using JSP, Apache Derby, 
 
 ## Technology Stack
 - **Frontend:** HTML, CSS, 
-- **Backend:** JSP (Java Server Pages)
+- **Backend:** JSP (Java Server Pages) and Servlets
 - **Database:** Apache Derby
 
 ## License
@@ -25,58 +26,77 @@ This project is licensed under the MIT License.
 
 ## Screenshots of the Pages:
 
-### Main Page (Login / Register)
+### Main Page (Guest and Admin Login)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/7fd00806-1043-470e-a557-ffb5b890daec" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/310eed07-d65f-4611-b3c4-78876ab42fed" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/dc438162-a675-4d27-b44b-f5f05b428a2c" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/1e98c13b-79ff-4635-a6fa-49830f6b21fb" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/c548a536-282a-42c6-8094-3218da1965b1" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/7afedf30-2e0e-4ebb-ad39-8d28eb125e96" alt="Screenshot" width="330" height="220" />
 </div>
 
-### User DashBoard (To View Available Rooms, Bookings, and Log Out)
-
-- DashBoard  
-<img src="https://github.com/user-attachments/assets/7c0ede3c-7fef-48b0-90ad-41a5e1f484ae" alt="Screenshot" width="500" height="300" />
-
-- Booking a Room
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/2525e093-3ae0-46e0-9b5b-eae7baf755db" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/cb6ec1eb-73b9-4a15-91c2-0919ab3d5cba" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/ff8d15a0-20cc-4497-b032-2ae9e3ee56cf" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/5087acfd-8119-4e99-b288-2125e3530114" alt="Screenshot" width="500" height="300" />
-</div>
-
-- Cancelling a Room
+### Dashboard (Guest and Admin)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/c9af66bf-c153-43b4-9480-45829ce16782" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/cafa74b0-6291-4ed2-91b4-a44fbcc4a3ea" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/209650a5-dc29-434c-bad5-41112bdc229f" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="500" height="300" />
 </div>
 
-### Admin DashBoard and User Management
-
+### Guest Features
+- To View Availale Rooms and My Bookings
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/cc1a1975-8c4e-43ab-b227-39eed46ff2fb" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/9bbc9fd7-fbb8-4620-b91c-6270d860af05" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/426678e7-3ac3-4ecf-a263-68f8dcb59852" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/1208d153-fe2d-4d1e-8c02-562018ec044c" alt="Screenshot" width="500" height="300" />
 </div>
 
-### Adding and Updating Rooms
-
+- Book a room
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/0bf2030a-1846-4e67-a9c4-8be8efc3efa8" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/08765b69-eecf-4865-8767-48a27791ae70" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/c395db44-d621-41b0-9672-4b2bccc0716e" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/da9babbc-eed8-49e3-af74-9139e0bf2d04" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/20577abb-add4-4b43-b035-362b0da44586" alt="Screenshot" width="500" height="300" />
 </div>
 
-### Deleting Rooms
-
+- Cancel a Booking
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/82a2fe82-a117-402a-a8ed-2077dbb6d710" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/e852a531-7bcd-436c-99dc-0fcd7a39f0c2" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/a78dc39a-22ae-4b5f-9353-f904ebf1698c" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/968d91f6-85d4-4b66-943b-1e9e8203819a" alt="Screenshot" width="500" height="300" />
 </div>
 
+### Admin Features
+- View Booked Rooms / Available Rooms and Registered Users
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/05f8d697-5a42-47f9-bdb6-1cf67df2f6d2" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/d8272adf-de27-4ec3-9f7f-19902dbae622" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/ecac60d8-152b-47f6-9e0a-14fde4e8ee87" alt="Screenshot" width="330" height="220" />
+</div>
 
+- Delete User
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/df5b7901-b2e6-47b0-b7b6-52b5d052bf2f" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/eddcc7f8-c88a-4709-ab67-cb25753f9393" alt="Screenshot" width="500" height="300" />
+</div>
 
+- Add Room
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/63e8dc87-9208-4983-be92-1bdf8ac423ae" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/e9cf4a55-106f-4e8d-b55b-89ede3d7d113" alt="Screenshot" width="500" height="300" />
+</div>
 
+- Update Room
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/dc08a312-ad66-4d98-89d5-c9af401f44a3" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/03d0db1c-87db-4d95-8cd3-ac33f1aa220e" alt="Screenshot" width="500" height="300" />
+</div>
+
+- Delete Room
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/35e5ccd8-0955-4ca1-8282-2d00da0188ca" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/660e6497-4056-49b3-92a9-b88a3fddd2b7" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/b058a9ae-ecce-4313-815f-a7bef5bbf860" alt="Screenshot" width="330" height="220" />
+</div>
+
+- Report Generation
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/user-attachments/assets/052c6404-b14f-4fb3-b168-335b42fe5f4a" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/5a54870d-fc1a-4aa7-8f10-18ce3a254432" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/2d507d08-3634-42e7-b6d0-9585be77168a" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/044291fb-967e-4e81-894f-0105bf051b9a" alt="Screenshot" width="500" height="300" />
+</div>
