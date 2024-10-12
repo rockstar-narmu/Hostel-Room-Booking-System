@@ -29,16 +29,16 @@ This project is licensed under the MIT License.
 ### Main Page (Guest and Admin Login)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/1e98c13b-79ff-4635-a6fa-49830f6b21fb" alt="Screenshot" width="270" height="180" />
-    <img src="https://github.com/user-attachments/assets/c548a536-282a-42c6-8094-3218da1965b1" alt="Screenshot" width="270" height="180" />
-    <img src="https://github.com/user-attachments/assets/7afedf30-2e0e-4ebb-ad39-8d28eb125e96" alt="Screenshot" width="270" height="180" />
+    <img src="https://github.com/user-attachments/assets/1e98c13b-79ff-4635-a6fa-49830f6b21fb" alt="Screenshot" width="275" height="180" />
+    <img src="https://github.com/user-attachments/assets/c548a536-282a-42c6-8094-3218da1965b1" alt="Screenshot" width="275" height="180" />
+    <img src="https://github.com/user-attachments/assets/7afedf30-2e0e-4ebb-ad39-8d28eb125e96" alt="Screenshot" width="275" height="180" />
 </div>
 
 ### Dashboard (Guest and Admin)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="400" height="270" />
-    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="400" height="270" />
+    <img src="https://github.com/user-attachments/assets/15617749-ee28-4c1f-8691-8d27f795322f" alt="Screenshot" width="410" height="270" />
+    <img src="https://github.com/user-attachments/assets/af13f7d0-123b-4dfa-981f-becca99acf99" alt="Screenshot" width="410" height="270" />
 </div>
 
 ### Guest Features
