@@ -29,9 +29,9 @@ This project is licensed under the MIT License.
 ### Main Page (Guest and Admin Login)
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/1e98c13b-79ff-4635-a6fa-49830f6b21fb" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/c548a536-282a-42c6-8094-3218da1965b1" alt="Screenshot" width="330" height="220" />
-    <img src="https://github.com/user-attachments/assets/7afedf30-2e0e-4ebb-ad39-8d28eb125e96" alt="Screenshot" width="330" height="220" />
+    <img src="https://github.com/user-attachments/assets/1e98c13b-79ff-4635-a6fa-49830f6b21fb" alt="Screenshot" width="300" height="220" />
+    <img src="https://github.com/user-attachments/assets/c548a536-282a-42c6-8094-3218da1965b1" alt="Screenshot" width="300" height="220" />
+    <img src="https://github.com/user-attachments/assets/7afedf30-2e0e-4ebb-ad39-8d28eb125e96" alt="Screenshot" width="300" height="220" />
 </div>
 
 ### Dashboard (Guest and Admin)
