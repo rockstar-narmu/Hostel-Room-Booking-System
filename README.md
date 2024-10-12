@@ -95,8 +95,8 @@ This project is licensed under the MIT License.
 
 - Report Generation
 <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/user-attachments/assets/052c6404-b14f-4fb3-b168-335b42fe5f4a" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/5a54870d-fc1a-4aa7-8f10-18ce3a254432" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/2d507d08-3634-42e7-b6d0-9585be77168a" alt="Screenshot" width="500" height="300" />
-    <img src="https://github.com/user-attachments/assets/044291fb-967e-4e81-894f-0105bf051b9a" alt="Screenshot" width="500" height="300" />
+    <img src="https://github.com/user-attachments/assets/052c6404-b14f-4fb3-b168-335b42fe5f4a" alt="Screenshot" width="410" height="270" />
+    <img src="https://github.com/user-attachments/assets/5a54870d-fc1a-4aa7-8f10-18ce3a254432" alt="Screenshot" width="410" height="270" />
+    <img src="https://github.com/user-attachments/assets/2d507d08-3634-42e7-b6d0-9585be77168a" alt="Screenshot" width="410" height="270" />
+    <img src="https://github.com/user-attachments/assets/044291fb-967e-4e81-894f-0105bf051b9a" alt="Screenshot" width="410" height="270" />
 </div>
